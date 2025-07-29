@@ -1,5 +1,5 @@
 # UNIVERSITY-PROJ-3
-a java project i made in university casually
+A project written in java during my second semester in university .The program connected with a database Postgresql locally ,used java for GUI development.
 
 ## License
 
